@@ -42,23 +42,24 @@ Watch a [video walkthrough](link-to-your-admin-video) showcasing the admin featu
 ## Getting Started
 
 1. **Clone the Repository:**
+
     ```bash
     git clone https://github.com/your-username/ProShop.git
     cd ProShop
     ```
 
-# Install backend dependencies
+2. **Install backend dependencies**
 
-cd backend pip install -r requirements.txt
+`cd backend pip install -r requirements.txt`
 
-# Install frontend dependencies
+3. **Install frontend dependencies**
 
-cd ../frontend npm install
+`cd ../frontend npm install`
 
-# Run the backend server
+4. **Run the backend server**
 
-cd ../backend python manage.py runserver
+`cd ../backend python manage.py runserver`
 
-# Run the frontend server
+5. **Run the frontend server**
 
-cd ../frontend npm start
+`cd ../frontend npm start`
